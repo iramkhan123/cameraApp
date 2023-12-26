@@ -1,0 +1,11 @@
+.layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  background-color:"#E7BCDE"
+}
+
+.main {
+  padding: 3em 0;
+  background-color:"#E7BCDE"
+}
